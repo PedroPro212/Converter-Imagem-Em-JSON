@@ -1,0 +1,1 @@
+# Converter-Imagem-Em-JSON
